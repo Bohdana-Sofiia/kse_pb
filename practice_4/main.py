@@ -173,3 +173,5 @@ for i in trans:
     status[st] = status[st] + amount
 
 print(status)
+
+#
