@@ -94,4 +94,3 @@ def adjust_for_inflation(income, inflation_rates):
   return new_incomes
 result = adjust_for_inflation(10000, [0.08, 0.1, 0.07])
 print(result)
-
