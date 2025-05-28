@@ -12,4 +12,4 @@ def generate_password(length, allow_symbols):
             password = "".join(random.choices(symbols, k=length))
             return password
 
-print(generate_password(12, True))
+print(generate_password(12, False))
