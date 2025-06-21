@@ -1,5 +1,4 @@
 import pandas as pd
-import requests
 
 df = pd.read_json("C:\\Users\\Bogda\\OneDrive\\Documents\\KSE\\kse_pb\\kse_pb\\assigment_5\\Kyiv_next7days.json")
 
